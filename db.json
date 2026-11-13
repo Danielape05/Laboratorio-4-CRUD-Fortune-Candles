@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Vela Gato",
+      "precio": 25000,
+      "stock": 10,
+      "categoria": "Decorativa"
+    },
+    {
+      "id": "2",
+      "nombre": "Vela Perro",
+      "precio": 25000,
+      "stock": 15,
+      "categoria": "Decorativa"
+    },
+    {
+      "id": "3",
+      "nombre": "Vela Oso",
+      "precio": 25000,
+      "stock": 12,
+      "categoria": "Decorativa"
+    },
+    {
+      "id": "4",
+      "nombre": "Vela Bubble",
+      "precio": 20000,
+      "stock": 20,
+      "categoria": "Decorativa"
+    },
+    {
+      "id": "5",
+      "nombre": "Vela Personalizada",
+      "precio": 30000,
+      "stock": 8,
+      "categoria": "Personalizada"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
